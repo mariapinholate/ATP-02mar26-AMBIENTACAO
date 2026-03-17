@@ -1,0 +1,15 @@
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\bin\Debug\net9.0\maria.exe
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\bin\Debug\net9.0\maria.deps.json
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\bin\Debug\net9.0\maria.runtimeconfig.json
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\bin\Debug\net9.0\maria.dll
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\bin\Debug\net9.0\maria.pdb
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\obj\Debug\net9.0\maria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\obj\Debug\net9.0\maria.AssemblyInfoInputs.cache
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\obj\Debug\net9.0\maria.AssemblyInfo.cs
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\obj\Debug\net9.0\maria.csproj.CoreCompileInputs.cache
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\obj\Debug\net9.0\maria.sourcelink.json
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\obj\Debug\net9.0\maria.dll
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\obj\Debug\net9.0\refint\maria.dll
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\obj\Debug\net9.0\maria.pdb
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\obj\Debug\net9.0\maria.genruntimeconfig.cache
+C:\Users\maria\ATP-02mar26-AMBIENTACAO\obj\Debug\net9.0\ref\maria.dll
